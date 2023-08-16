@@ -1,2 +1,3 @@
 print <"Hello World">
+            #comments-they are words that the computer doesn't process as a command, helps the developer read the code easier and know what the code is for
 
